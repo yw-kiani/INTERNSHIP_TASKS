@@ -1,4 +1,19 @@
 # INTERNSHIP_TASKS
+
+CodSoft JAVA Projects
+
+Author
+
+• Name: YOUSRA
+
+• Email: ywkiani@gmail.com
+
+Introduction:
+
+Welcome to the CodSoft JAVA Projects repository! In this collection, I have developed java projects that cover a variety of functionalities. Feel free to explore each project and try them out for yourself.
+
+Projects
+
 TASK 1
 1. Generate a random number within a specified range, such as 1 to 100.
 2. Prompt the user to enter their guess for the generated number.
